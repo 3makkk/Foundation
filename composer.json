@@ -1,0 +1,15 @@
+{
+    "name": "emak/foundation",
+    "description": "Zurb foundation view helper for ZF2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sven Friedemann",
+            "email": "sven.friedemann@gmx.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
